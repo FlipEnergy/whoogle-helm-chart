@@ -1,5 +1,6 @@
 [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/flipenergy)](https://artifacthub.io/packages/search?repo=flipenergy)
 # Helm chart for deploying Whoogle to K8s
+**Go to artifact hub for versions.**
 
 Bare bones helm chart for deploying [Whoogle Search](https://github.com/benbusby/whoogle-search) to k8s.
 
