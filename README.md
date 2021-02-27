@@ -4,7 +4,7 @@
 
 A simple helm chart for deploying [Whoogle Search](https://github.com/benbusby/whoogle-search) to k8s.
 
-see [values.yaml](whoogle/values.yaml) for configurations.
+see [values.yaml](values.yaml) for configurations.
 
 Install using Helm v3:
 
