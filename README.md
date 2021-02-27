@@ -2,7 +2,7 @@
 # Helm chart for deploying Whoogle to K8s
 **Go to artifact hub for versions.**
 
-Bare bones helm chart for deploying [Whoogle Search](https://github.com/benbusby/whoogle-search) to k8s.
+A simple helm chart for deploying [Whoogle Search](https://github.com/benbusby/whoogle-search) to k8s.
 
 see [values.yaml](whoogle/values.yaml) for configurations.
 
