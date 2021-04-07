@@ -1,3 +1,5 @@
+# This chart is deprecated in favor of the one I maintain [here](https://github.com/k8s-at-home/charts/tree/master/charts/stable/whoogle)
+
 [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/flipenergy)](https://artifacthub.io/packages/search?repo=flipenergy)
 # Helm chart for deploying Whoogle to K8s
 **Go to artifact hub for versions.**
